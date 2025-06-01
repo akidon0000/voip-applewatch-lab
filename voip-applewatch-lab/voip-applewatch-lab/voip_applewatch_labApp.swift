@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct voip_applewatch_labApp: App {
+struct VoipApplewatchLabApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

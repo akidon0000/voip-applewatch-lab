@@ -1,0 +1,14 @@
+--indent 4
+--tabwidth 4
+--maxblanklines 1
+--line-length 100
+--wraparguments beforefirst
+--wrapelements beforefirst
+--commas inline
+--self remove
+--nospaceoperators ..<
+--prioritizekeepingfunctionoutputtogether
+--respectsexistinglinebreaks
+--indentconditionalcompilationblocks
+--disable fileScopedDeclarationPrivacy
+--experimental no-assignment-in-expressions
